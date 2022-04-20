@@ -14,7 +14,9 @@
 | **ARC** | • [메모리구조](https://github.com/yoogail105/KkokkoSwift/issues/16#issue-1205636562) | `메모리구조` `code` `data` `heap` `stack`                    |
 |         | • [ARC](https://github.com/yoogail105/KkokkoSwift/issues/15#issue-1205635576) | `ARC` `Auto Reference Counting`                              |
 |         | • [강한 순환 참조 오류와 해결](https://github.com/yoogail105/KkokkoSwift/issues/22#issuecomment-1102589761) | `strong` `Strong Reference Cycles` `weak` `unowned`          |
-| ****    |                                                              |                                                              |
+| **Delegate 패턴**  | • [델리게이트패턴](https://github.com/yoogail105/KkokkoSwift/issues/24#issue-1209155937) | `delegate pattern`                                           |
+| **Singleton 패턴** | • [싱글톤패턴](https://github.com/yoogail105/KkokkoSwift/issues/25#issue-1209225174) | `singleton pattern` `thread-safe` `type property`            |
+| **접근제어자**     | • [접근제어자](https://github.com/yoogail105/KkokkoSwift/issues/26#issue-1209302269) | `access control` `open` `public` `internal` `fileprivate` `private` `접근제어(set)` |
 
 
 
