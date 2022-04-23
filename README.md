@@ -30,13 +30,26 @@
 | **프로퍼티**                 | • [프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/13#issue-1203617556)<br/>• [타입프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/12#issue-1203613807) | `프로퍼티` `저장프로퍼티` `연산프로퍼티` `타입프로퍼티`      |
 
 
-## 📘 꼼꼼한 재은씨의 Swift: 기본편
-| 목차                                           | 세부 목차                       | 날짜     | 키워드 정리                                                  |
-| ---------------------------------------------- | :------------------------------ | -------- | ------------------------------------------------------------ |
-| 1. 첫번째 iOS앱 만들기                         |                                 |          |                                                              |
-|                                                | 1.1. 첫번째 앱, Hello, World!   | 22.04.11 | - [프로젝트 기본 구조](https://github.com/yoogail105/KkokkoSwift/issues/4#issue-1199471898)<br />- [프로젝트 구성과 스토리보드](https://github.com/yoogail105/KkokkoSwift/issues/5#issue-1200019787)<br />- [스토리보드](https://github.com/yoogail105/KkokkoSwift/issues/6#issue-1200142664)<br /> |
-|                                                | 1.2. 시작 화면 제어하기         | 22.04.12 | - [런치스크린](https://github.com/yoogail105/KkokkoSwift/issues/9#issue-1200309372) |
-| 2. iOS 앱의 기본 구조와 코코아 터치 프레임워크 |                     |          |                                                              |
-|                                                | 2.1 앱의 기본 구조              |          | - [앤트리포인트와 앱의 초기화 과정](https://github.com/yoogail105/KkokkoSwift/issues/14#issue-1205634881)<br/>- [MVC 패턴](https://github.com/yoogail105/KkokkoSwift/issues/18#issue-1206347519)<br/>- [앱의 상태 변화](https://github.com/yoogail105/KkokkoSwift/issues/19#issue-1206352024)<br/> |
-|                                                | 2.2 iOS와 코코아터치 프레임워크 |          | -[iOS와 코코아터치 프레임워크](https://github.com/yoogail105/KkokkoSwift/issues/20#issue-1206356142) |
-|                                                |                                 |          |                                                              |
+# 📘 꼼꼼한 재은씨의 Swift: 기본편
+
+| 목차                                           | 세부 목차                               | 키워드 정리                                                  |
+| ---------------------------------------------- | :-------------------------------------- | ------------------------------------------------------------ |
+| 1. 첫번째 iOS앱 만들기                         |                                         |                                                              |
+|                                                | 1.1. 첫번째 앱, Hello, World!           | - [프로젝트 기본 구조](https://github.com/yoogail105/KkokkoSwift/issues/4#issue-1199471898)<br />- [프로젝트 구성과 스토리보드](https://github.com/yoogail105/KkokkoSwift/issues/5#issue-1200019787)<br />- [스토리보드](https://github.com/yoogail105/KkokkoSwift/issues/6#issue-1200142664)<br />- |
+|                                                | 1.2. 시작 화면 제어하기                 | - [런치스크린](https://github.com/yoogail105/KkokkoSwift/issues/9#issue-1200309372) |
+| 2. iOS 앱의 기본 구조와 코코아 터치 프레임워크 | - []()<br/>                             |                                                              |
+|                                                | 2.1 앱의 기본 구조                      | - [앤트리포인트와 앱의 초기화 과정](https://github.com/yoogail105/KkokkoSwift/issues/14#issue-1205634881)<br/>- [MVC 패턴](https://github.com/yoogail105/KkokkoSwift/issues/18#issue-1206347519)<br/>- [앱의 상태 변화](https://github.com/yoogail105/KkokkoSwift/issues/19#issue-1206352024)<br/> |
+|                                                | 2.2 iOS와 코코아터치 프레임워크         | -[iOS와 코코아터치 프레임워크](https://github.com/yoogail105/KkokkoSwift/issues/20#issue-1206356142) |
+| 3. 화면상의 객체를 제어하는 방법               | 3.1 @IBOutlet과 @IBAction               | -  [@IBOutlet과 @IBAction](https://github.com/yoogail105/KkokkoSwift/issues/29#issue-1213173597) |
+| 4. 화면 전환                                   | 4.1 iOS에서의 화면 전환 개념            | - [iOS에서의 화면 전환](https://github.com/yoogail105/KkokkoSwift/issues/30#issuecomment-1107358239)<br/>- []() |
+|                                                | 4.2 - 4.5 화면 전환 기법들              | - [뷰 이용](https://github.com/yoogail105/KkokkoSwift/issues/30#issuecomment-1107358322)<br/>- [뷰 컨트롤러 직접호출](https://github.com/yoogail105/KkokkoSwift/issues/30#issuecomment-1107358603)<br/>- [네비게이션 컨틀롤러 이용](https://github.com/yoogail105/KkokkoSwift/issues/31#issue-1213204441)<br/>- [세그웨이 이용](https://github.com/yoogail105/KkokkoSwift/issues/32) |
+| 5. 다른 뷰 컨트롤러와 데이터 주고받기          | 5.1. 화면 전환 과정에서의 값 전달 방식  | - [@IBAction의 sender Type: Any?](https://github.com/yoogail105/KkokkoSwift/issues/33#issue-1213225891)<br/>- [화면전환: `as? SecondViewController`](https://github.com/yoogail105/KkokkoSwift/issues/34#issue-1213226270) |
+|                                                | 5.2. 뷰 컨트롤러에 직접 값을 전달하기   | - [프레젠테이션, 내비게이션, 세그웨이로 전달](https://github.com/yoogail105/KkokkoSwift/issues/35#issue-1213288601) |
+|                                                | 5.3 이전 화면으로 값을 전달하기         | - [이전 화면으로 값을 전달하기](https://github.com/yoogail105/KkokkoSwift/issues/36#issue-1213289930) |
+| 6. 사용자에게 메세지를 전달하는 방법           | 6.1 UIAlertController<br/>6.2 로컬 알림 | - [UIAlertController, UserNotification](https://github.com/yoogail105/KkokkoSwift/issues/37#issue-1213290844) |
+| 7. 델리게이트 패턴                             | 7.1 텍스트 필드                         | - [텍스트필드](https://github.com/yoogail105/KkokkoSwift/issues/38#issue-1213291900) |
+|                                                | 7.2 이미지 피커 컨트롤러                | - [이미지 피커 컨트롤러](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
+|                                                |                                         |                                                              |
+|                                                |                                         |                                                              |
+
+                                                       |
