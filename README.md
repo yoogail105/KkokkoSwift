@@ -47,9 +47,8 @@
 |                                                | 5.2. 뷰 컨트롤러에 직접 값을 전달하기   | - [프레젠테이션, 내비게이션, 세그웨이로 전달](https://github.com/yoogail105/KkokkoSwift/issues/35#issue-1213288601) |
 |                                                | 5.3 이전 화면으로 값을 전달하기         | - [이전 화면으로 값을 전달하기](https://github.com/yoogail105/KkokkoSwift/issues/36#issue-1213289930) |
 | 6. 사용자에게 메세지를 전달하는 방법           | 6.1 UIAlertController<br/>6.2 로컬 알림 | - [UIAlertController, UserNotification](https://github.com/yoogail105/KkokkoSwift/issues/37#issue-1213290844) |
-| 7. 델리게이트 패턴                             | 7.1 텍스트 필드                         | - [텍스트필드](https://github.com/yoogail105/KkokkoSwift/issues/38#issue-1213291900) |
-|                                                | 7.2 이미지 피커 컨트롤러                | - [이미지 피커 컨트롤러](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
-|                                                |                                         |                                                              |
-|                                                |                                         |                                                              |
+| 7. 델리게이트 패턴 | 7. 델리게이트 패턴       | - [델리게이트패턴](https://github.com/yoogail105/KkokkoSwift/issues/24#issue-1209155937) |
+|                    | 7.1 텍스트 필드          | - [텍스트필드](https://github.com/yoogail105/KkokkoSwift/issues/38#issue-1213291900) |
+|                    | 7.2 이미지 피커 컨트롤러 | - [이미지 피커 컨트롤러](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
 
                                                        |
