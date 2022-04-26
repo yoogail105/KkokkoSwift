@@ -28,7 +28,7 @@
 | **Guard-else 구문**          | • [Guard-else](https://github.com/yoogail105/KkokkoSwift/issues/1#issue-1194496296) | `guard-else`                                                 |
 | **Overriding과 Overloading** | • [Overriding과 Overloading](https://github.com/yoogail105/KkokkoSwift/issues/8#issue-1200252691) | `Overriding` `Overloading` `final`                           |
 | **프로퍼티**                 | • [프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/13#issue-1203617556)<br/>• [타입프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/12#issue-1203613807) | `프로퍼티` `저장프로퍼티` `연산프로퍼티` `타입프로퍼티`      |
-|**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)| `class` `struct` `call by value` `call by reference`|
+|**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)<br/>• [참조 타입과 값 타입](https://velog.io/@yoogail/참조-타입과-값-타입feat.-class-struct)| `class` `struct` `call by value` `call by reference`|
 
 
 # 📘 꼼꼼한 재은씨의 Swift: 기본편
