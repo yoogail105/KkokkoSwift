@@ -17,6 +17,9 @@
 | **Delegate 패턴**  | • [델리게이트패턴](https://github.com/yoogail105/KkokkoSwift/issues/24#issue-1209155937) | `delegate pattern`                                           |
 | **Singleton 패턴** | • [싱글톤패턴](https://github.com/yoogail105/KkokkoSwift/issues/25#issue-1209225174) | `singleton pattern` `thread-safe` `type property`            |
 | **접근제어자**     | • [접근제어자](https://github.com/yoogail105/KkokkoSwift/issues/26#issue-1209302269) | `access control` `open` `public` `internal` `fileprivate` `private` `접근제어(set)` |
+| **객체지향프로그래밍(OOP)** | • [객체지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/42#issue-1218665226)<br>• [SOLID 원칙](https://github.com/yoogail105/KkokkoSwift/issues/43#issue-1220571005) | `OOP` `추상화, 캡슐화, 상속성, 다형성` `SOLID` `의존성주입` |
+
+
 
 
 
