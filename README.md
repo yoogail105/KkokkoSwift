@@ -10,6 +10,7 @@
 | **GCD** | • [프로세스와 쓰레드](https://github.com/yoogail105/KkokkoSwift/issues/11#issue-1203135069)<br/> | `프로세스와 쓰레드` `MainThread` `Global Thread`             |
 |         | • [Sync/Async, Concurrent/Serial](https://github.com/yoogail105/KkokkoSwift/issues/10#issue-1200404722) | `Sync/Async` `Serial/Concurrent`                             |
 |         | • [GCD](https://github.com/yoogail105/KkokkoSwift/issues/21#issue-1207093538) | `thread/task` `동시성 프로그래밍` `Queue` `GCD` `Dispatch Queue` |
+| **Thread-safe** | •[Thread-safe](https://github.com/yoogail105/KkokkoSwift/issues/49#issue-1227765195) | `Multi-Threading` `Thread-safe` `atomic` |
 | **COW** | • [COW](https://github.com/yoogail105/KkokkoSwift/issues/23#issue-1208462253) | `Copy On Write`                                              |
 | **ARC** | • [메모리구조](https://github.com/yoogail105/KkokkoSwift/issues/16#issue-1205636562) | `메모리구조` `code` `data` `heap` `stack`                    |
 |         | • [ARC](https://github.com/yoogail105/KkokkoSwift/issues/15#issue-1205635576) | `ARC` `Auto Reference Counting`                              |
@@ -39,7 +40,7 @@
 | **Overriding과 Overloading** | • [Overriding과 Overloading](https://github.com/yoogail105/KkokkoSwift/issues/8#issue-1200252691) | `Overriding` `Overloading` `final`                           |
 | **프로퍼티**                 | • [프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/13#issue-1203617556)<br/>• [타입프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/12#issue-1203613807) | `프로퍼티` `저장프로퍼티` `연산프로퍼티` `타입프로퍼티`      |
 |**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)<br/>• [참조 타입과 값 타입](https://velog.io/@yoogail/참조-타입과-값-타입feat.-class-struct)| `class` `struct` `call by value` `call by reference`|
-
+|**Frame, Bounds**|•[Frame Bounds 차이](https://github.com/yoogail105/KkokkoSwift/issues/50#issue-1228645855)|`Frame` `Bounds` `CGRect`|
 
 # 📘 꼼꼼한 재은씨의 Swift: 기본편
 
