@@ -3,6 +3,8 @@
 
 어떤 특별한 기준 없이, **저에게** 애매했던 지점을 공부한 내용을 기록합니다.<br/>
 공부하며 마주친 개념들에 대해서도 기록합니다.
+<br>
+
 ## 🐾  **iOS**
 
 | 주제    | 세부 주제                                                    | 키워드                                                       |
@@ -22,7 +24,7 @@
 | **프로토콜 지향 프로그래밍** | • [프로토콜 지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/45#issue-1222172739) | `상속` `컴포지션`  `확장` |
 | **메소드 디스패치** | • [메소드 디스패치](https://github.com/yoogail105/KkokkoSwift/issues/44#issue-1221842036) | `static` `dynamic`|
 | **소켓통신** | • [TCP, UDP](https://github.com/yoogail105/KkokkoSwift/issues/48#issue-1226760519) | `TCP` `UDP` |
-
+<br>
 
 
 
@@ -41,6 +43,7 @@
 | **프로퍼티**                 | • [프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/13#issue-1203617556)<br/>• [타입프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/12#issue-1203613807) | `프로퍼티` `저장프로퍼티` `연산프로퍼티` `타입프로퍼티`      |
 |**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)<br/>• [참조 타입과 값 타입](https://velog.io/@yoogail/참조-타입과-값-타입feat.-class-struct)| `class` `struct` `call by value` `call by reference`|
 |**Frame, Bounds**|•[Frame Bounds 차이](https://github.com/yoogail105/KkokkoSwift/issues/50#issue-1228645855)|`Frame` `Bounds` `CGRect`|
+<br>
 
 # 📘 꼼꼼한 재은씨의 Swift: 기본편
 
