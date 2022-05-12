@@ -43,6 +43,9 @@
 | **프로퍼티**                 | • [프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/13#issue-1203617556)<br/>• [타입프로퍼티](https://github.com/yoogail105/KkokkoSwift/issues/12#issue-1203613807) | `프로퍼티` `저장프로퍼티` `연산프로퍼티` `타입프로퍼티`      |
 |**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)<br/>• [참조 타입과 값 타입](https://velog.io/@yoogail/참조-타입과-값-타입feat.-class-struct)| `class` `struct` `call by value` `call by reference`|
 |**Frame, Bounds**|•[Frame Bounds 차이](https://github.com/yoogail105/KkokkoSwift/issues/50#issue-1228645855)|`Frame` `Bounds` `CGRect`|
+| **RxSwift DisposeBag** | • [DisposeBag 1](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-1)<br>• [DisposeBag 2](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-2) | `DisposeBag` `Disposable` `disposed(by:)` `dispose()` `insert()` |
+
+
 <br>
 
 # 📘 꼼꼼한 재은씨의 Swift: 기본편
