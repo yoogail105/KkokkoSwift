@@ -24,6 +24,10 @@
 | **프로토콜 지향 프로그래밍** | • [프로토콜 지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/45#issue-1222172739) | `상속` `컴포지션`  `확장` |
 | **메소드 디스패치** | • [메소드 디스패치](https://github.com/yoogail105/KkokkoSwift/issues/44#issue-1221842036) | `static` `dynamic`|
 | **소켓통신** | • [TCP, UDP](https://github.com/yoogail105/KkokkoSwift/issues/48#issue-1226760519) | `TCP` `UDP` |
+| **아키텍처 패턴**                 | • [아키텍처패턴](https://github.com/yoogail105/KkokkoSwift/issues/52#issue-1237241257)<br>• [MVC](https://github.com/yoogail105/KkokkoSwift/issues/53#issue-1237289397)<br/>• [MVP](https://github.com/yoogail105/KkokkoSwift/issues/54#issue-1237561195)<br/>• [MVVM](https://github.com/yoogail105/KkokkoSwift/issues/55#issue-1237664359)<br/> |                                          |
+| **Hugging / Resistance Priority** | • [Hugging / Resistance Priority](https://github.com/yoogail105/KkokkoSwift/issues/56#issue-1240086499) | `Hugging Priority` `Resistance Priority` |
+
+
 <br>
 
 
