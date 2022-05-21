@@ -72,7 +72,6 @@
 | 7. 델리게이트 패턴 | 7. 델리게이트 패턴       | - [델리게이트패턴](https://github.com/yoogail105/KkokkoSwift/issues/24#issue-1209155937) |
 |                    | 7.1 텍스트 필드          | - [텍스트필드](https://github.com/yoogail105/KkokkoSwift/issues/38#issue-1213291900) |
 |                    | 7.2 이미지 피커 컨트롤러 | - [이미지 피커 컨트롤러](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
-| ](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
 | 8. 테이블 뷰를 이용한 데이터 목록 구현                       |                            |                                                              |
 | 9. 네트워크 통신과 API                                       | 9.1 네트워크 통신의 종류   | • [연결/비연결 지향 통신](https://github.com/yoogail105/KkokkoSwift/issues/60#issue-1243721031)<br />• [SOAP, RESTful](https://github.com/yoogail105/KkokkoSwift/issues/61#issue-1243737677)<br />• [XML, JSON](https://github.com/yoogail105/KkokkoSwift/issues/62#issue-1243939058) |
 |                                                              | 9.2 오픈 API와 공공 콘텐츠 | • [OAuth 2.0](https://github.com/yoogail105/KkokkoSwift/issues/63#issue-1243996617) |
