@@ -11,7 +11,7 @@
 | ------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
 | **GCD** | • [프로세스와 쓰레드](https://github.com/yoogail105/KkokkoSwift/issues/11#issue-1203135069)<br/> | `프로세스와 쓰레드` `MainThread` `Global Thread`             |
 |         | • [Sync/Async, Concurrent/Serial](https://github.com/yoogail105/KkokkoSwift/issues/10#issue-1200404722) | `Sync/Async` `Serial/Concurrent`                             |
-|         | • [GCD](https://github.com/yoogail105/KkokkoSwift/issues/21#issue-1207093538)<br>• [QoS](https://github.com/yoogail105/KkokkoSwift/issues/57#issue-1241884142) | `thread/task` `동시성 프로그래밍` `Queue` `GCD` `Dispatch Queue` `QoS`|
+|         | • [GCD](https://github.com/yoogail105/KkokkoSwift/issues/21#issue-1207093538)<br>• [QoS](https://github.com/yoogail105/KkokkoSwift/issues/57#issue-1241884142)<br>• [DispatchSemaphore](https://github.com/yoogail105/KkokkoSwift/issues/65#issue-1245054539) | `thread/task` `동시성 프로그래밍` `Queue` `GCD` `Dispatch Queue` `QoS`|
 | **Thread-safe** | •[Thread-safe](https://github.com/yoogail105/KkokkoSwift/issues/49#issue-1227765195) | `Multi-Threading` `Thread-safe` `atomic` |
 | **COW** | • [COW](https://github.com/yoogail105/KkokkoSwift/issues/23#issue-1208462253) | `Copy On Write`                                              |
 | **ARC** | • [메모리구조](https://github.com/yoogail105/KkokkoSwift/issues/16#issue-1205636562) | `메모리구조` `code` `data` `heap` `stack`                    |
@@ -48,7 +48,7 @@
 |**클래스와 구조체**|• [클래스와 구조체](https://github.com/yoogail105/KkokkoSwift/issues/41#issue-1214612463)<br/>• [참조 타입과 값 타입](https://velog.io/@yoogail/참조-타입과-값-타입feat.-class-struct)| `class` `struct` `call by value` `call by reference`|
 |**Frame, Bounds**|•[Frame Bounds 차이](https://github.com/yoogail105/KkokkoSwift/issues/50#issue-1228645855)|`Frame` `Bounds` `CGRect`|
 | **RxSwift DisposeBag** | • [DisposeBag 1](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-1)<br>• [DisposeBag 2](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-2) | `DisposeBag` `Disposable` `disposed(by:)` `dispose()` `insert()` |
-
+| **Closure** | • [Closure](https://github.com/yoogail105/KkokkoSwift/issues/40#issue-1213677602) | `closure` `일급객체` | 
 
 <br>
 
