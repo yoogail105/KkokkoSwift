@@ -75,7 +75,7 @@
 |                    | 7.2 이미지 피커 컨트롤러 | - [이미지 피커 컨트롤러](https://github.com/yoogail105/KkokkoSwift/issues/39#issue-1213292238) |
 | 8. 테이블 뷰를 이용한 데이터 목록 구현                       |                            |                                                              |
 | 9. 네트워크 통신과 API                                       | 9.1 네트워크 통신의 종류   | • [연결/비연결 지향 통신](https://github.com/yoogail105/KkokkoSwift/issues/60#issue-1243721031)<br />• [SOAP, RESTful](https://github.com/yoogail105/KkokkoSwift/issues/61#issue-1243737677)<br />• [XML, JSON](https://github.com/yoogail105/KkokkoSwift/issues/62#issue-1243939058) |
-|                                                              | 9.2 오픈 API와 공공 콘텐츠 | • [OAuth 2.0](https://github.com/yoogail105/KkokkoSwift/issues/63#issue-1243996617) |
+|                                                              | 9.2 오픈 API와 공공 콘텐츠 | • [오픈 API](https://github.com/yoogail105/KkokkoSwift/issues/72#issue-1251746035)<br/> • [OAuth 2.0](https://github.com/yoogail105/KkokkoSwift/issues/63#issue-1243996617) |
 |                          | 9.3 오픈 API를 이용한 네트워크 실습          | • [Data, URL, Log출력](https://github.com/yoogail105/KkokkoSwift/issues/70#issue-1251743314)<br />• [ATS(App Transport Security)](https://github.com/yoogail105/KkokkoSwift/issues/71#issue-1251745354) |
 | 10. 테이블 뷰의 동작원리 | 10.1 테이블 뷰를 스크롤할 때 발생하는 일들   | • [재사용 메커니즘](https://github.com/yoogail105/KkokkoSwift/issues/68#issue-1251738295)<br /> |
 |                          | 10.2 일반 뷰 컨트롤러에서 테이블 뷰 사용하기 | • [tableView객체 사용하기](https://github.com/yoogail105/KkokkoSwift/issues/69#issue-1251740238) |
