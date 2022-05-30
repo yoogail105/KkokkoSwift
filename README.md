@@ -28,7 +28,7 @@
 | **아키텍처 패턴**                 | • [아키텍처패턴](https://github.com/yoogail105/KkokkoSwift/issues/52#issue-1237241257)<br>• [MVC](https://github.com/yoogail105/KkokkoSwift/issues/53#issue-1237289397)<br/>• [MVP](https://github.com/yoogail105/KkokkoSwift/issues/54#issue-1237561195)<br/>• [MVVM](https://github.com/yoogail105/KkokkoSwift/issues/55#issue-1237664359)<br/> |                                          |
 | **Hugging / Resistance Priority** | • [Hugging / Resistance Priority](https://github.com/yoogail105/KkokkoSwift/issues/56#issue-1240086499) | `Hugging Priority` `Resistance Priority` |
 | **.DS_Store** | • [.DS_Store](https://github.com/yoogail105/KkokkoSwift/issues/66#issue-1246686511) |  |
-
+|**Combine** | • [Combine](https://github.com/yoogail105/KkokkoSwift/issues/66#issue-1246686511) |  ||
 <br>
 
 
