@@ -52,7 +52,7 @@
 | **RxSwift DisposeBag** | • [DisposeBag 1](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-1)<br>• [DisposeBag 2](https://velog.io/@yoogail/RxSwift-DisposeBag-정복하기-2) | `DisposeBag` `Disposable` `disposed(by:)` `dispose()` `insert()` |
 | **Closure** | • [Closure](https://github.com/yoogail105/KkokkoSwift/issues/40#issue-1213677602) | `closure` `일급객체` |
 | **고차함수** | • [map](https://github.com/yoogail105/KkokkoSwift/issues/75#issue-1258242153) | `map` |
-| **KeyPath** | •[KeyPath](https://github.com/yoogail105/KkokkoSwift/issues/76#issue-1260740971) | `KeyPath` `프로퍼티참조` |
+| **KVC** | • [KeyPath](https://github.com/yoogail105/KkokkoSwift/issues/76#issue-1260740971)<br>• [KVC](https://github.com/yoogail105/KkokkoSwift/issues/76#issuecomment-1146748629) | `KeyPath` `프로퍼티참조` `Key-Value Coding` |
 
 
 
