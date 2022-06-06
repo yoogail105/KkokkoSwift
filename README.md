@@ -29,7 +29,8 @@
 | **Hugging / Resistance Priority** | • [Hugging / Resistance Priority](https://github.com/yoogail105/KkokkoSwift/issues/56#issue-1240086499) | `Hugging Priority` `Resistance Priority` |
 | **.DS_Store** | • [.DS_Store](https://github.com/yoogail105/KkokkoSwift/issues/66#issue-1246686511) |  |
 |**Combine** | • [Combine](https://github.com/yoogail105/KkokkoSwift/issues/66#issue-1246686511) |  |
-| **뷰컨트롤러의 생명주기** | • [ViewController LifeCycle](https://github.com/yoogail105/KkokkoSwift/issues/74#issue-1256211593) |  |
+| **뷰컨트롤러의 생명주기** | • [ViewController LifeCycle](https://github.com/yoogail105/KkokkoSwift/issues/74#issue-1256211593) | `loadView` `viewDidLoad` `viewWillAppear` `viewWillDisappear`|
+| **Method Swizzling** | • [Method Swizzling](https://github.com/yoogail105/KkokkoSwift/issues/77#issue-1261636107) | `Method Swizzling` |
 <br>
 
 
@@ -53,6 +54,11 @@
 | **Closure** | • [Closure](https://github.com/yoogail105/KkokkoSwift/issues/40#issue-1213677602) | `closure` `일급객체` |
 | **고차함수** | • [map](https://github.com/yoogail105/KkokkoSwift/issues/75#issue-1258242153) | `map` |
 | **KVC** | • [KeyPath](https://github.com/yoogail105/KkokkoSwift/issues/76#issue-1260740971)<br>• [KVC](https://github.com/yoogail105/KkokkoSwift/issues/76#issuecomment-1146748629) | `KeyPath` `프로퍼티참조` `Key-Value Coding` |
+
+
+
+
+## 
 
 
 
