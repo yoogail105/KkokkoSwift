@@ -91,3 +91,4 @@
 |                          | 9.3 오픈 API를 이용한 네트워크 실습          | • [Data, URL, Log출력](https://github.com/yoogail105/KkokkoSwift/issues/70#issue-1251743314)<br />• [ATS(App Transport Security)](https://github.com/yoogail105/KkokkoSwift/issues/71#issue-1251745354) |
 | 10. 테이블 뷰의 동작원리 | 10.1 테이블 뷰를 스크롤할 때 발생하는 일들   | • [재사용 메커니즘](https://github.com/yoogail105/KkokkoSwift/issues/68#issue-1251738295)<br /> |
 |                          | 10.2 일반 뷰 컨트롤러에서 테이블 뷰 사용하기 | • [tableView객체 사용하기](https://github.com/yoogail105/KkokkoSwift/issues/69#issue-1251740238) |
+| 11. 웹 뷰: 앱에서 웹 페이지를 여는 방법                      | 11.1 WKWebView를 이용하여 영화 정보 상세 화면 구현하기 <br/>11.2 WKWebView | • [사파리 앱, UIWebView, WKWebView, SFSafariViewController](https://github.com/yoogail105/KkokkoSwift/issues/78#issue-1275854737) |
