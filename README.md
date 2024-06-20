@@ -12,7 +12,7 @@
 | **GCD** | • [프로세스와 쓰레드](https://github.com/yoogail105/KkokkoSwift/issues/11#issue-1203135069)<br/> | `프로세스와 쓰레드` `MainThread` `Global Thread`             |
 |         | • [Sync/Async, Concurrent/Serial](https://github.com/yoogail105/KkokkoSwift/issues/10#issue-1200404722) | `Sync/Async` `Serial/Concurrent`                             |
 |         | • [GCD](https://github.com/yoogail105/KkokkoSwift/issues/21#issue-1207093538)<br>• [QoS](https://github.com/yoogail105/KkokkoSwift/issues/57#issue-1241884142)<br>• [DispatchSemaphore](https://github.com/yoogail105/KkokkoSwift/issues/65#issue-1245054539) | `thread/task` `동시성 프로그래밍` `Queue` `GCD` `Dispatch Queue` `QoS`|
-| **Thread-safe** | •[Thread-safe](https://github.com/yoogail105/KkokkoSwift/issues/49#issue-1227765195) | `Multi-Threading` `Thread-safe` `atomic` |
+| **Thread-safe** | •[Thread-safe](https://github.com/yoogail105/KkokkoSwift/issues/49#issue-1227765195) | `Multi-Threading` `Thread-safe` `atomic` `race conditions` `deadlocks` |
 | **COW** | • [COW](https://github.com/yoogail105/KkokkoSwift/issues/23#issue-1208462253) | `Copy On Write`                                              |
 | **ARC** | • [메모리구조](https://github.com/yoogail105/KkokkoSwift/issues/16#issue-1205636562) | `메모리구조` `code` `data` `heap` `stack`                    |
 |         | • [ARC](https://github.com/yoogail105/KkokkoSwift/issues/15#issue-1205635576) | `ARC` `Auto Reference Counting`                              |
