@@ -21,7 +21,7 @@
 | **Singleton 패턴** | • [싱글톤패턴](https://github.com/yoogail105/KkokkoSwift/issues/25#issue-1209225174) | `singleton pattern` `thread-safe` `type property`            |
 | **NotificationCenter** | • [노티피케이션센터](https://github.com/yoogail105/KkokkoSwift/issues/67#issue-1248221743) | `notification` `notification center` |
 | **접근제어자**     | • [접근제어자](https://github.com/yoogail105/KkokkoSwift/issues/26#issue-1209302269) | `access control` `open` `public` `internal` `fileprivate` `private` `접근제어(set)` |
-| **객체지향프로그래밍(OOP)** | • [객체지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/42#issue-1218665226)<br>• [SOLID 원칙](https://github.com/yoogail105/KkokkoSwift/issues/43#issue-1220571005) | `OOP` `추상화, 캡슐화, 상속성, 다형성` `SOLID` `의존성주입` |
+| **객체지향프로그래밍(OOP)** | • [객체지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/42#issue-1218665226)<br>• [SOLID 원칙](https://github.com/yoogail105/KkokkoSwift/issues/43#issue-1220571005)<br>• [다형성](https://github.com/yoogail105/KkokkoSwift/issues/42#issuecomment-2243259436)<br>| `OOP` `추상화, 캡슐화, 상속성, 다형성` `SOLID` `의존성주입` |
 | **프로토콜 지향 프로그래밍** | • [프로토콜 지향 프로그래밍](https://github.com/yoogail105/KkokkoSwift/issues/45#issue-1222172739) | `상속` `컴포지션`  `확장` |
 | **메소드 디스패치** | • [메소드 디스패치](https://github.com/yoogail105/KkokkoSwift/issues/44#issue-1221842036) | `static` `dynamic`|
 | **소켓통신** | • [TCP, UDP](https://github.com/yoogail105/KkokkoSwift/issues/48#issue-1226760519) | `TCP` `UDP` |
